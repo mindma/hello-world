@@ -1,3 +1,3 @@
 # hello-world
 New test repository
-Hello me name is Martin, Im form Slovkia ;) 
+Hello me name is Martin, Im from Slovkia ;) 
